@@ -122,6 +122,11 @@ AutoHotkey:
   - ahk
   primary_extension: .ahk
 
+AutoIt:
+  type: programming
+  color: "#6594b9"
+  primary_extension: .au3
+
 Awk:
   type: programming
   lexer: Awk
